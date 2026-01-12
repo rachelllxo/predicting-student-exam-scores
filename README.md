@@ -1,4 +1,7 @@
 # Predicting Student Exam Scores
+## Dataset Source:  
+Kaggle - Exam Score Prediction Dataset  
+Link : https://www.kaggle.com/datasets/kundanbedmutha/exam-score-prediction-dataset/data
 ## Dataset contains:   
 Student id  
 Age  
